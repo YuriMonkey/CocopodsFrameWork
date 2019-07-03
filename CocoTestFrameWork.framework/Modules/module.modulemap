@@ -1,0 +1,6 @@
+framework module CocoTestFrameWork {
+  umbrella header "CocoTestFrameWork.h"
+
+  export *
+  module * { export * }
+}
